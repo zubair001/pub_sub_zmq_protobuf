@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package RL;
+
+message Contact {
+    int32 id = 1;
+    repeated string name = 2;
+    repeated string email = 3;
+}

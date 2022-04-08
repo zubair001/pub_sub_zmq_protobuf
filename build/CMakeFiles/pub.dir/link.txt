@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pub.dir/pub.cpp.o  -o pub  -Wl,-rpath,/usr/local/lib libproto.a /usr/local/lib/libprotobuf.so -lpthread /usr/local/lib/libzmq.so 
